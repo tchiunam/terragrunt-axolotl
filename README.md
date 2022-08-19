@@ -1,15 +1,28 @@
 # Terragrunt for Axolotl
+#### Activity
+<div align="left">
+  <a href="https://github.com/tchiunam/terragrunt-axolotl/commits/main">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/tchiunam/terragrunt-axolotl" />
+  </a>
+  <a href="https://github.com/tchiunam/terragrunt-axolotl/issues?q=is%3Aissue+is%3Aclosed">
+    <img alt="Closed Issues" src="https://img.shields.io/github/issues-closed/tchiunam/terragrunt-axolotl" />
+  </a>
+  <a href="https://github.com/tchiunam/terragrunt-axolotl/pulls?q=is%3Apr+is%3Aclosed">
+    <img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/tchiunam/terragrunt-axolotl" />
+  </a>
+</div>
+
 #### License
 <div align="left">
   <a href="https://opensource.org/licenses/MIT">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/tchiunam/terraform-module" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/tchiunam/terragrunt-axolotl" />
   </a>
 </div>
 
 #### Popularity
 <div align="left">
-  <img alt="Repo Stars" src="https://img.shields.io/github/stars/tchiunam/terragrunt-module?style=social" />
-  <img alt="Watchers" src="https://img.shields.io/github/watchers/tchiunam/terraform-module?style=social" />
+  <img alt="Repo Stars" src="https://img.shields.io/github/stars/tchiunam/terragrunt-axolotl?style=social" />
+  <img alt="Watchers" src="https://img.shields.io/github/watchers/tchiunam/terragrunt-axolotl?style=social" />
 </div>
 
 <br />
