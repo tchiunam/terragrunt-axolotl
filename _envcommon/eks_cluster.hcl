@@ -1,5 +1,5 @@
 terraform {
-  source = "${local.base_source_url}?ref=v0.0.3"
+  source = "${local.base_source_url}?ref=v1.0.0"
 }
 
 locals {
