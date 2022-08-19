@@ -1,4 +1,18 @@
 # Terragrunt for Axolotl
+#### Release
+<div align="left">
+  <a href="https://github.com/tchiunam/terragrunt-axolotl/releases">
+    <img alt="Version" src="https://img.shields.io/github/v/release/tchiunam/terragrunt-axolotl?sort=semver" />
+  </a>
+  <a href="https://github.com/tchiunam/terragrunt-axolotl/releases">
+    <img alt="Release Date" src="https://img.shields.io/github/release-date/tchiunam/terragrunt-axolotl" />
+  </a>
+  <img alt="Language" src="https://img.shields.io/github/languages/count/tchiunam/terragrunt-axolotl" />
+  <img alt="Lines of Code" src="https://img.shields.io/tokei/lines/github/tchiunam/terragrunt-axolotl" />
+  <img alt="File Count" src="https://img.shields.io/github/directory-file-count/tchiunam/terragrunt-axolotl" />
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/tchiunam/terragrunt-axolotl.svg?label=Repo%20size" />
+</div>
+
 #### Activity
 <div align="left">
   <a href="https://github.com/tchiunam/terragrunt-axolotl/commits/main">
@@ -26,6 +40,7 @@
 </div>
 
 <br />
+
 The Terraform makes our life easier by supporting the terraform makes our life easier by supporting **module** and **workspace** to manage infrastructure in multiple envrionments. However there are quite a lot limitations when the infrastructure becomes more complex because it doesn't support variables with interpolation and shared variables.
 
 [terraform-axolotl](https://github.com/tchiunam/terraform-axolotl) demonstrates the complication when we need to modularize our Terraform code. The reusability of Terraform modules comes with the use of many symlinks since modules have a lot of dependencies. On one side it is helping us with the flexibility of building up the blocks while it is also killing us with the incapability of handling of variables.

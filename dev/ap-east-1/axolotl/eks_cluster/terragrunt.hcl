@@ -1,5 +1,5 @@
 terraform {
-  source = "${include.envcommon.locals.base_source_url}?ref=v0.0.3"
+  source = "${include.envcommon.locals.base_source_url}?ref=v1.0.0"
 }
 
 include "root" {
@@ -16,7 +16,7 @@ dependency "vpc" {
 }
 
 inputs = {
-  cluster_name    = "axolotl"
-  cluster_version = "1.23"
-  subnet_ids      = dependency.vpc.outputs.subnet_private_ids
+  name       = "axolotl"
+  version    = "1.23"
+  subnet_ids = dependency.vpc.outputs.subnet_private_ids
 }
