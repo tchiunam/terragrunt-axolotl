@@ -1,8 +1,15 @@
 # Terragrunt for Axolotl
+#### License
+<div align="left">
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/tchiunam/terraform-module" />
+  </a>
+</div>
+
 #### Popularity
 <div align="left">
-  <img alt="Repo Stars" src="https://img.shields.io/github/stars/tchiunam/terragrunt-axolotl?style=social" />
-  <img alt="Watchers" src="https://img.shields.io/github/watchers/tchiunam/terragrunt-axolotl?style=social" />
+  <img alt="Repo Stars" src="https://img.shields.io/github/stars/tchiunam/terragrunt-module?style=social" />
+  <img alt="Watchers" src="https://img.shields.io/github/watchers/tchiunam/terraform-module?style=social" />
 </div>
 
 <br />
