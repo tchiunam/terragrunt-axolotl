@@ -16,5 +16,7 @@ dependency "vpc" {
 }
 
 inputs = {
-  cluster_vpc_subnet_ids = dependency.vpc.outputs.subnet_private_ids
+  cluster_name    = "axolotl"
+  cluster_version = "1.23"
+  subnet_ids      = dependency.vpc.outputs.subnet_private_ids
 }
