@@ -8,7 +8,6 @@
     <img alt="Release Date" src="https://img.shields.io/github/release-date/tchiunam/terragrunt-axolotl" />
   </a>
   <img alt="Language" src="https://img.shields.io/github/languages/count/tchiunam/terragrunt-axolotl" />
-  <img alt="Lines of Code" src="https://img.shields.io/tokei/lines/github/tchiunam/terragrunt-axolotl" />
   <img alt="File Count" src="https://img.shields.io/github/directory-file-count/tchiunam/terragrunt-axolotl" />
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/tchiunam/terragrunt-axolotl.svg?label=Repo%20size" />
 </div>
