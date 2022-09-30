@@ -8,7 +8,6 @@
     <img alt="Release Date" src="https://img.shields.io/github/release-date/tchiunam/terragrunt-axolotl" />
   </a>
   <img alt="Language" src="https://img.shields.io/github/languages/count/tchiunam/terragrunt-axolotl" />
-  <img alt="Lines of Code" src="https://img.shields.io/tokei/lines/github/tchiunam/terragrunt-axolotl" />
   <img alt="File Count" src="https://img.shields.io/github/directory-file-count/tchiunam/terragrunt-axolotl" />
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/tchiunam/terragrunt-axolotl.svg?label=Repo%20size" />
 </div>
@@ -49,22 +48,22 @@ This repository contains the setup that shows you the way to adopt Terragrunt in
 
 # Use it
 To plan a stack:
-```
+```console
 terragrunt run-all plan
 ```
 
 To apply a stack:
-```
+```console
 terragrunt run-all apply
 ```
 
 To apply a stack with variable files:
-```
+```console
 terragrunt run-all apply -var-file <variable-filename>
 ```
 
 To validate inputs:
-```
+```console
 terragrunt validate-inputs
 ```
 
