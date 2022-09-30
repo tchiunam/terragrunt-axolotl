@@ -48,22 +48,22 @@ This repository contains the setup that shows you the way to adopt Terragrunt in
 
 # Use it
 To plan a stack:
-```
+```console
 terragrunt run-all plan
 ```
 
 To apply a stack:
-```
+```console
 terragrunt run-all apply
 ```
 
 To apply a stack with variable files:
-```
+```console
 terragrunt run-all apply -var-file <variable-filename>
 ```
 
 To validate inputs:
-```
+```console
 terragrunt validate-inputs
 ```
 
